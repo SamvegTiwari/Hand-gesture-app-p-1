@@ -1,0 +1,6 @@
+body{
+background-color: black;
+color: cornsilk;
+}
+
+#camera { border: 2px dashed rgb(243, 230, 230); width: 350px; height: 300px; }
